@@ -7,3 +7,5 @@ In this homework assignment we were assigned to make this password generator web
 ## How to start 
 
 1. You first click on the Generate Password reed button 
+![genbutton] (https://github.com/michelaqyteza/Homework-3/blob/main/Pictures/generatebutton.png)
+ 
